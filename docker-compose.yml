@@ -1,0 +1,12 @@
+version: "3.7"
+ 
+services:
+  helloworld:
+    build:
+      context: ./src/
+    ports:
+      - 5004:5000
+
+
+# MUST: export PORT=5004  only for mac
+# to acess flask 127.0.0.1:5004 on mac
