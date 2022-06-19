@@ -3,7 +3,7 @@
 #docker push vfedotovsdocker/test_makefile:tagname
 #IMAGE_REG ?= ghcr.io
 IMAGE_REPO ?= vfedotovsdocker/test_makefile
-IMAGE_TAG ?= latest
+IMAGE_TAG ?= 1.2.0
 
 
 # Don't change:
