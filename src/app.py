@@ -14,7 +14,7 @@ def mult(a, b):
 
 @app.route('/') # The primary url for our application
 def hello_world(): # This method returns 'Flask Dockerized', which is displayed in our browser.
-    return 'Flask Dockerized'
+    return 'Flask Dockerized version 1.2.0'
 
 
 if __name__ == '__main__':
