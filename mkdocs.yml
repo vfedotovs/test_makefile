@@ -1,14 +1,13 @@
 
-site_name: Your Project
+site_name: Test_makefile
 site_url: https://vfedotovs.github.io/test_makefile
 site_author: Valentins Fedotovs
-
 
 
 # Navigation
 nav:
     - Home: index.md
-    - Getting Started: getting-started.md
-    - User Guide:
-        - Overview: user-guide/index.md
-        - Installation: user-guide/installation.md
+    - Tutorials: tutorials.md
+    - How To Guides: how-to-guides.md
+    - References: reference.md
+    - Explanations: explanation.md
