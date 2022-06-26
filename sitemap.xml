@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://vfedotovs.github.io/test_makefile/</loc>
-         <lastmod>2022-06-25</lastmod>
+         <lastmod>2022-06-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vfedotovs.github.io/test_makefile/getting-started/</loc>
-         <lastmod>2022-06-25</lastmod>
+         <loc>https://vfedotovs.github.io/test_makefile/explanation/</loc>
+         <lastmod>2022-06-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vfedotovs.github.io/test_makefile/user-guide/</loc>
-         <lastmod>2022-06-25</lastmod>
+         <loc>https://vfedotovs.github.io/test_makefile/how-to-guides/</loc>
+         <lastmod>2022-06-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vfedotovs.github.io/test_makefile/user-guide/installation/</loc>
-         <lastmod>2022-06-25</lastmod>
+         <loc>https://vfedotovs.github.io/test_makefile/reference/</loc>
+         <lastmod>2022-06-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
